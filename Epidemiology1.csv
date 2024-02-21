@@ -1,0 +1,5 @@
+disease,omim_number,patient_number,family_count,origin,prevalence_per_1000,incidence,References
+"HYPOBETALIPOPROTEINEMIA, FAMILIAL",200100,1.0,1,Tunis,,,19056372
+"ECTODERMAL DYSPLASIA, HYPOHIDROTIC, AR",224900,,1,,,,16246000
+"Fanconi anemia, FA ",227650,,1 family ,Central Tunisia,,,12827451
+231550,Allgrove syndrome,5.0,,Tunisia ,,,11062474
